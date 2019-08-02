@@ -10,18 +10,20 @@ Basic Auth - username=admin password=pass
 
 body - 
 
-[
-    {   
-        "departmentName": "English",
-        "employees": [
-            {
-                "employeeName": "Nil"
-            },{
-                "employeeName": "Nik"
-            }
-        ]
-    }
-]
+	[
+ 	   {   
+ 	    	   "departmentName": "English",
+  	   	   "employees": [
+          		  {
+           		     "employeeName": "Nil"
+           		 },{
+           		     "employeeName": "Nik"
+           		 }
+       		 ]
+  	  }
+	]
+
+
 
 2) get all departments without employees
 
@@ -29,11 +31,16 @@ URL - https://localhost:44361/api/departments
 
 Method - GET
 
+
+
+
 3) get department by id (no employee records)
 
 URL - https://localhost:44361/api/departments/1
 
 Method - GET
+
+
 
 4) update Department
 
@@ -50,6 +57,7 @@ body -
     }
 
 
+
 5) delete Department
 
 URL - https://localhost:44361/api/departments/1
@@ -59,6 +67,8 @@ Method - DELETE
 Basic Auth - username=admin password=pass
 
 
+
+
 6)Get all employees
 
 URL - https://localhost:44361/api/employees
@@ -66,11 +76,15 @@ URL - https://localhost:44361/api/employees
 Method - GET
 
 
+
+
 7)Get Employee by Id
 
 URL - https://localhost:44361/api/employees/1
 
 Method - GET
+
+
 
 
 8)update Employee
@@ -86,6 +100,8 @@ body -
     {
         "employeeName": "Nikhil"
     }
+
+
 
 
 9)Delete Employee
