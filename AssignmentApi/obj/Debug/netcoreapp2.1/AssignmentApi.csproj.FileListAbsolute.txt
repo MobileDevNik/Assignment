@@ -1,0 +1,14 @@
+C:\Users\hp-pc\Desktop\API\AssignmentApi\bin\Debug\netcoreapp2.1\AssignmentApi.deps.json
+C:\Users\hp-pc\Desktop\API\AssignmentApi\bin\Debug\netcoreapp2.1\AssignmentApi.runtimeconfig.json
+C:\Users\hp-pc\Desktop\API\AssignmentApi\bin\Debug\netcoreapp2.1\AssignmentApi.runtimeconfig.dev.json
+C:\Users\hp-pc\Desktop\API\AssignmentApi\bin\Debug\netcoreapp2.1\AssignmentApi.dll
+C:\Users\hp-pc\Desktop\API\AssignmentApi\obj\Debug\netcoreapp2.1\AssignmentApi.csprojAssemblyReference.cache
+C:\Users\hp-pc\Desktop\API\AssignmentApi\obj\Debug\netcoreapp2.1\AssignmentApi.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\API\AssignmentApi\obj\Debug\netcoreapp2.1\AssignmentApi.RazorAssemblyInfo.cache
+C:\Users\hp-pc\Desktop\API\AssignmentApi\obj\Debug\netcoreapp2.1\AssignmentApi.RazorAssemblyInfo.cs
+C:\Users\hp-pc\Desktop\API\AssignmentApi\obj\Debug\netcoreapp2.1\AssignmentApi.AssemblyInfoInputs.cache
+C:\Users\hp-pc\Desktop\API\AssignmentApi\obj\Debug\netcoreapp2.1\AssignmentApi.AssemblyInfo.cs
+C:\Users\hp-pc\Desktop\API\AssignmentApi\obj\Debug\netcoreapp2.1\AssignmentApi.RazorTargetAssemblyInfo.cache
+C:\Users\hp-pc\Desktop\API\AssignmentApi\bin\Debug\netcoreapp2.1\AssignmentApi.pdb
+C:\Users\hp-pc\Desktop\API\AssignmentApi\obj\Debug\netcoreapp2.1\AssignmentApi.dll
+C:\Users\hp-pc\Desktop\API\AssignmentApi\obj\Debug\netcoreapp2.1\AssignmentApi.pdb
