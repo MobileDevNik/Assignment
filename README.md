@@ -31,10 +31,14 @@ URL - https://localhost:44361/api/departments
 
 Method - GET
 
+3) get all departments along with employees
+
+URL - https://localhost:44361/api/departments/getcomplete
+
+Method - GET
 
 
-
-3) get department by id (no employee records)
+4) get department by id (no employee records)
 
 URL - https://localhost:44361/api/departments/1
 
@@ -42,7 +46,7 @@ Method - GET
 
 
 
-4) update Department
+5) update Department
 
 URL - https://localhost:44361/api/departments/1
 
@@ -58,7 +62,7 @@ body -
 
 
 
-5) delete Department
+6) delete Department
 
 URL - https://localhost:44361/api/departments/1
 
@@ -69,7 +73,7 @@ Basic Auth - username=admin password=pass
 
 
 
-6)Get all employees
+7)Get all employees
 
 URL - https://localhost:44361/api/employees
 
@@ -78,7 +82,7 @@ Method - GET
 
 
 
-7)Get Employee by Id
+8)Get Employee by Id
 
 URL - https://localhost:44361/api/employees/1
 
@@ -87,7 +91,7 @@ Method - GET
 
 
 
-8)update Employee
+9)update Employee
 
 URL - https://localhost:44361/api/employees/1
 
@@ -104,7 +108,7 @@ body -
 
 
 
-9)Delete Employee
+10)Delete Employee
 
 URL - https://localhost:44361/api/employees/1
 
